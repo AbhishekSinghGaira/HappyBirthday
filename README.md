@@ -41,3 +41,5 @@ The included rules allow public reads and writes for this private surprise site.
 - Animated personal letter and expandable wishes
 - Sound/animation controls and reduced-motion support
 # HappyBirthday
+
+# HappyBirthday
